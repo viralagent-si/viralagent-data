@@ -11,7 +11,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,10,,answer-me-with-html,Answer me with HTML,52.145,1166,52.145,0,0,0,1,,v1,true
 2026-W40,main,11,,vibe-wise,VibeWise,50.446,1128,50.446,0,0,0,1,,v1,true
 2026-W40,main,12,,motion-video-kit,motion-video-kit,42.858,982,42.858,0,0,0,1,,v1,true
-2026-W40,main,13,,omnirush-gui,omnirush,38.161,1219,54.515,0,0,0,0.7,new-owner-account,v1,true
+2026-W40,main,13,,omnirush-gui,omnirush-gui,38.161,1219,54.515,0,0,0,0.7,new-owner-account,v1,true
 2026-W40,main,14,,jevgrep,jevgrep,36.48,1363,36.48,0,0,0,1,,v1,true
 2026-W40,main,15,,simplified-technical-english,simplified-technical-english,35.902,806,35.902,0,0,0,1,,v1,true
 2026-W40,main,16,,autoharness,autoharness,35.351,2615,35.351,0,0,0,1,,v1,true
@@ -20,10 +20,10 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,19,,brigade,brigade,33.428,4159,47.754,0,0,0,0.7,high-star-fork-ratio,v1,true
 2026-W40,main,20,,invisible-playwright-mcp,invisible_playwright_mcp,29.337,656,29.337,0,0,0,1,,v1,true
 2026-W40,main,21,,onetake,onetake,28.816,947,28.816,0,0,0,1,,v1,true
-2026-W40,main,22,,dsh-our-free-model,Our Free Model,27.947,778,27.947,0,0,0,1,,v1,true
+2026-W40,main,22,,dsh-our-free-model,dsh-our-free-model,27.947,778,27.947,0,0,0,1,,v1,true
 2026-W40,main,23,,open-dot,open-dot,24.999,559,24.999,0,0,0,1,,v1,true
 2026-W40,main,24,,brag,brag,24.509,2610,24.509,0,0,0,1,,v1,true
-2026-W40,main,25,,oil-ui,Oil UI,23.568,527,23.568,0,0,0,1,,v1,true
+2026-W40,main,25,,oil-ui,oil-ui,23.568,527,23.568,0,0,0,1,,v1,true
 2026-W40,main,26,,easel,Easel,23.217,1135,23.217,0,0,0,1,,v1,true
 2026-W40,main,27,,dbx,dbx,22.65,3333,22.65,0,0,0,1,,v1,true
 2026-W40,main,28,,openmuse,OpenMuse,22.414,1258,22.414,0,0,0,1,,v1,true
@@ -32,7 +32,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,31,,ponytail,Ponytail,21.813,8327,21.762,0,0,0.051,1,,v1,true
 2026-W40,main,32,,open-seo-mcp-skills,open-seo-mcp-skills,20.973,1326,24.674,0,0,0,0.85,solo-contributor-spike,v1,true
 2026-W40,main,33,,agent-memory,agent-memory,20.673,893,20.673,0,0,0,1,,v1,true
-2026-W40,main,34,,monocode,MonoCode,19.396,896,19.396,0,0,0,1,,v1,true
+2026-W40,main,34,,monocode,Monocode,19.396,896,19.396,0,0,0,1,,v1,true
 2026-W40,main,35,,beeftv,BeefTV,19.376,538,19.376,0,0,0,1,,v1,true
 2026-W40,main,36,,orca,Orca,18.976,5360,18.976,0,0,0,1,,v1,true
 2026-W40,main,37,,lemo-opuscar,Lemo-Opuscar,18.949,571,18.949,0,0,0,1,,v1,true
@@ -41,16 +41,16 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,40,,octop,Octop,18.708,1419,18.708,0,0,0,1,,v1,true
 2026-W40,main,41,,agent-reach,Agent Reach,18.62,5453,18.62,0,0,0,1,,v1,true
 2026-W40,main,42,,impeccable,Impeccable,18.18,4713,17.575,0,0,0.605,1,,v1,true
-2026-W40,main,43,,replica-skill,Replica skill,17.844,399,17.844,0,0,0,1,,v1,true
+2026-W40,main,43,,replica-skill,Replica Skill,17.844,399,17.844,0,0,0,1,,v1,true
 2026-W40,main,44,,archify,Archify,17.427,4710,17.427,0,0,0,1,,v1,true
 2026-W40,main,45,,0,0,17.107,412,17.107,0,0,0,1,,v1,true
 2026-W40,main,46,,explainroo,explainroo,16.86,377,16.86,0,0,0,1,,v1,true
 2026-W40,main,47,,pstack-claude,pstack-claude,16.801,568,16.801,0,0,0,1,,v1,true
 2026-W40,main,48,,marketing-skills,marketing-skills,16.66,905,16.66,0,0,0,1,,v1,true
-2026-W40,main,49,,seep-reverse-lab,Seep Reverse Lab,16.594,497,16.594,0,0,0,1,,v1,true
+2026-W40,main,49,,seep-reverse-lab,Seep-Reverse-Lab,16.594,497,16.594,0,0,0,1,,v1,true
 2026-W40,main,50,,open-duet,Open Duet,16.029,1112,16.029,0,0,0,1,,v1,true
 2026-W40,main,51,,livecanvas,livecanvas,15.966,357,15.966,0,0,0,1,,v1,true
-2026-W40,main,52,,agent-office,agent-office,15.815,413,15.815,0,0,0,1,,v1,true
+2026-W40,main,52,,agent-office,Agent Office,15.815,413,15.815,0,0,0,1,,v1,true
 2026-W40,main,53,,google-ads-meta-ads-mcp,google-ads-meta-ads-mcp,15.074,873,15.074,0,0,0,1,,v1,true
 2026-W40,main,54,,zeron,Zeron,14.92,776,14.92,0,0,0,1,,v1,true
 2026-W40,main,55,,tusk,tusk,14.847,332,14.847,0,0,0,1,,v1,true
@@ -68,7 +68,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,67,,skills,skills,11,5716,11,0,0,0,1,,v1,true
 2026-W40,main,68,,greenbubbles,greenbubbles,10.981,264,10.981,0,0,0,1,,v1,true
 2026-W40,main,69,,neohorse,NeoHorse,10.932,440,10.932,0,0,0,1,,v1,true
-2026-W40,main,70,,tuios,tuios,10.907,728,10.907,0,0,0,1,,v1,true
+2026-W40,main,70,,tuios,TUIOS,10.907,728,10.907,0,0,0,1,,v1,true
 2026-W40,main,71,,goutoujunshi,Goutoujunshi,10.602,1186,15.146,0,0,0,0.7,new-owner-account,v1,true
 2026-W40,main,72,,arena-skill,arena-skill,10.526,237,10.526,0,0,0,1,,v1,true
 2026-W40,main,73,,ecc,ECC,10.236,4883,9.444,0,0,0.792,1,,v1,true
@@ -81,7 +81,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,80,,anti-slop,anti-slop,9.07,598,9.07,0,0,0,1,,v1,true
 2026-W40,main,81,,edgeever,EdgeEver,8.92,408,8.92,0,0,0,1,,v1,true
 2026-W40,main,82,,context-mode,context-mode,8.833,1307,8.353,0,0,0.48,1,,v1,true
-2026-W40,main,83,,cua,Cua,8.606,1415,8.606,0,0,0,1,,v1,true
+2026-W40,main,83,,cua,cua,8.606,1415,8.606,0,0,0,1,,v1,true
 2026-W40,main,84,,native-subtitle-quote-image,native-subtitle-quote-image,8.549,308,8.549,0,0,0,1,,v1,true
 2026-W40,main,85,,treg,treg,8.501,543,8.501,0,0,0,1,,v1,true
 2026-W40,main,86,,cli-gitruck,gtrk,8.355,200,8.355,0,0,0,1,,v1,true
@@ -111,7 +111,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,builder,10,,deepseek-harness,dsh,11.758,5725,11.758,0,0,0,1,,v1,true
 2026-W40,builder,11,,univer,Univer,11.08,1610,11.08,0,0,0,1,,v1,true
 2026-W40,builder,12,,reef,Reef,10.085,844,10.085,0,0,0,1,,v1,true
-2026-W40,builder,13,,pi,Pi,8.169,2708,8.169,0,0,0,1,,v1,true
+2026-W40,builder,13,,pi,pi,8.169,2708,8.169,0,0,0,1,,v1,true
 2026-W40,builder,14,,jev-ultrafast,Jev Ultrafast,7.947,1157,7.947,0,0,0,1,,v1,true
 2026-W40,builder,15,,corsair,Corsair,7.836,885,7.836,0,0,0,1,,v1,true
 2026-W40,builder,16,,weknora,WeKnora,7.736,1364,7.736,0,0,0,1,,v1,true
@@ -129,16 +129,16 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,builder,28,,skillopt,SkillOpt,2.682,361,2.682,0,0,0,1,,v1,true
 2026-W40,builder,29,,voicemem,VoiceMem,2.679,139,2.679,0,0,0,1,,v1,true
 2026-W40,builder,30,,cangjie-skill,cangjie-skill,2.589,273,2.589,0,0,0,1,,v1,true
-2026-W40,builder,31,,cognee,cognee,2.576,308,1.737,0,0,0.839,1,,v1,true
+2026-W40,builder,31,,cognee,Cognee,2.576,308,1.737,0,0,0.839,1,,v1,true
 2026-W40,builder,32,,openviking,OpenViking,2.448,433,2.189,0,0,0.26,1,,v1,true
 2026-W40,builder,33,,omnigent,Omnigent,2.42,251,2.42,0,0,0,1,,v1,true
-2026-W40,builder,34,,browser-use,Browser Use,2.342,654,1.916,0,0,0.427,1,,v1,true
-2026-W40,builder,35,,crawl4ai,Crawl4AI,2.151,434,1.492,0,0,0.659,1,,v1,true
+2026-W40,builder,34,,browser-use,browser-use,2.342,654,1.916,0,0,0.427,1,,v1,true
+2026-W40,builder,35,,crawl4ai,crawl4ai,2.151,434,1.492,0,0,0.659,1,,v1,true
 2026-W40,builder,36,,agentscope,AgentScope,2.08,302,1.665,0,0,0.415,1,,v1,true
-2026-W40,builder,37,,gh-aw,GitHub Agentic Workflows,2.018,152,2.018,0,0,0,1,,v1,true
-2026-W40,builder,38,,ag-ui,AG-UI,1.913,246,1.913,0,0,0,1,,v1,true
+2026-W40,builder,37,,gh-aw,gh-aw,2.018,152,2.018,0,0,0,1,,v1,true
+2026-W40,builder,38,,ag-ui,ag-ui,1.913,246,1.913,0,0,0,1,,v1,true
 2026-W40,builder,39,,harness-sdk,Strands Agents,1.837,174,1.837,0,0,0,1,,v1,true
-2026-W40,builder,40,,mem0,mem0,1.784,460,1.784,0,0,0,1,,v1,true
+2026-W40,builder,40,,mem0,Mem0,1.784,460,1.784,0,0,0,1,,v1,true
 2026-W40,builder,41,,camofox-browser,camofox-browser,1.776,192,1.776,0,0,0,1,,v1,true
 2026-W40,builder,42,,langgraph,LangGraph,1.736,359,1.736,0,0,0,1,,v1,true
 2026-W40,builder,43,,agents-livekit,Agents,1.682,205,1.682,0,0,0,1,,v1,true

@@ -23,7 +23,7 @@ configs:
 # Viral Agent: AI agent momentum
 
 Weekly leaderboards of AI agents and agent tools ranked by momentum, from [Viral Agent](https://viralagent.si). Updated every Monday.
-Last updated 2026-10-29. 924 agents, 4 frozen weeks.
+Last updated 2026-11-02. 1308 agents, 5 frozen weeks.
 
 ## Files
 

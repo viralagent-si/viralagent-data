@@ -1,0 +1,151 @@
+week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceleration,hacker_news_attention,download_growth,integrity_multiplier,integrity_flags,scoring_version,backfilled
+2026-W44,main,1,12,elephant-goldfish-model,elephant-goldfish-model,276.164,8650,212.434,2,0,0,1,,v1,false
+2026-W44,main,2,,agent-desktop,agent-desktop,156.473,5800,120.364,2,0,0,1,,v1,false
+2026-W44,main,3,20,android-ad-cleaner,android-ad-cleaner,149.83,4666,115.254,2,0,0,1,,v1,false
+2026-W44,main,4,,orkas,Orkas,139.052,5527,106.963,2,0,0,1,,v1,false
+2026-W44,main,5,46,thinkrail,ThinkRail,128.702,5015,99.002,2,0,0,1,,v1,false
+2026-W44,main,6,88,openbot-nightly-labs,OpenBot,120.062,3590,92.355,2,0,0,1,,v1,false
+2026-W44,main,7,,tstack,tstack,112.55,2497,101.855,2,0,0,0.85,solo-contributor-spike,v1,false
+2026-W44,main,8,,bla,bla,110.474,1904,84.98,2,0,0,1,,v1,false
+2026-W44,main,9,,openduet,OpenDuet,105.985,1823,81.527,2,0,0,1,,v1,false
+2026-W44,main,10,,openmausbot,OpenMausBot,88.754,5334,68.272,2,0,0,1,,v1,false
+2026-W44,main,11,,digital-human-koubo,Digital Human Koubo,85.866,1603,66.05,2,0,0,1,,v1,false
+2026-W44,main,12,,floorplan,Floorplan,80.701,1983,88.682,2,0,0,0.7,new-owner-account,v1,false
+2026-W44,main,13,,survival-llm,Survival LLM,80.108,1219,51.697,2,9.924,0,1,,v1,false
+2026-W44,main,14,35,hallmark,Hallmark,70.749,10950,58.589,1.384,0,0,1,,v1,false
+2026-W44,main,15,,deeptutor,DeepTutor,69.733,11167,53.64,2,0,0,1,,v1,false
+2026-W44,main,16,5,learnharness,LearnHarness,68.668,2982,62.004,0.716,0,0,1,,v1,false
+2026-W44,main,17,,bama,bama,67.553,1367,61.134,2,0,0,0.85,solo-contributor-spike,v1,false
+2026-W44,main,18,8,day-trader-skill,day-trader-skill,61.13,2668,56.134,0.593,0,0,1,,v1,false
+2026-W44,main,19,1,cleanyourtv,Clean Your TV,59.234,13367,69.687,-1,0,0,1,,v1,false
+2026-W44,main,20,17,cindy,Cindy,54.406,3691,48.545,0.805,0,0,1,,v1,false
+2026-W44,main,21,32,ifixai,iFixAi,50.016,8520,45.637,0.64,0,0,1,,v1,false
+2026-W44,main,22,6,rea,REA,49.953,34422,55.361,-0.812,0,1.519,1,,v1,false
+2026-W44,main,23,59,impeccable,Impeccable,48.67,11846,39.817,1.126,0,1.822,1,,v1,false
+2026-W44,main,24,,open-design-agent-kit,Open Design Agent Kit,47.02,812,36.169,2,0,0,1,,v1,false
+2026-W44,main,25,27,aisoc,AiSOC,46.674,2695,41.065,0.911,0,0,1,,v1,false
+2026-W44,main,26,19,magpie,magpie,44.523,6416,43.033,0.231,0,0,1,,v1,false
+2026-W44,main,27,,paperpilot,PaperPilot,41.713,604,23.801,1.896,8.676,0,1,,v1,false
+2026-W44,main,28,,openbot,OpenBot,39.365,2645,30.281,2,0,0,1,,v1,false
+2026-W44,main,29,4,security-audit-skill,security-audit-skill,38.021,9423,43.075,-0.782,0,0,1,,v1,false
+2026-W44,main,30,,hob,Hob,35.816,435,19.454,2,8.097,0,1,,v1,false
+2026-W44,main,31,,agent-purge,agent-purge,35.147,819,31.807,2,0,0,0.85,solo-contributor-spike,v1,false
+2026-W44,main,32,,claude-code-game-studios,Claude Code Game Studios,34.988,5306,31.664,2,0,0,0.85,solo-contributor-spike,v1,false
+2026-W44,main,33,74,claude-seo,claude-seo,34.888,4447,30.115,1.057,0,0,1,,v1,false
+2026-W44,main,34,7,lemo-opuscar,Lemo-Opuscar,33.046,3190,35.412,-0.445,0,0,1,,v1,false
+2026-W44,main,35,,story-studio,story-studio,32.665,661,29.561,2,0,0,0.85,solo-contributor-spike,v1,false
+2026-W44,main,36,,design-agent,design-agent,31.385,542,24.143,2,0,0,1,,v1,false
+2026-W44,main,37,,ai-startup-skills,ai-startup-skills,30.759,681,25.205,1.469,0,0,1,,v1,false
+2026-W44,main,38,,claude-mem,claude-mem,30.695,6940,21.558,2,0,2.054,1,,v1,false
+2026-W44,main,39,,mcode-stack,mcode-stack,29.301,504,22.54,2,0,0,1,,v1,false
+2026-W44,main,40,69,ex-ussr-kinship-research,ex-USSR Kinship Research,28.714,878,26.545,0.545,0,0,1,,v1,false
+2026-W44,main,41,76,blender-skills,Blender Skills,28.331,881,24.615,1.006,0,0,1,,v1,false
+2026-W44,main,42,,chaojifeng-video-design,chaojifeng-video-design,28.29,490,21.762,2,0,0,1,,v1,false
+2026-W44,main,43,,claude-guardian,Claude-Guardian,27.949,925,26.515,0.36,0,0,1,,v1,false
+2026-W44,main,44,63,harvey,Harvey,26.554,1389,25.052,0.399,0,0,1,,v1,false
+2026-W44,main,45,52,ffmpeg-skill,ffmpeg-skill,26.443,1416,24.266,0.598,0,0,1,,v1,false
+2026-W44,main,46,,nasiko,Nasiko,26.06,2001,20.046,2,0,0,1,,v1,false
+2026-W44,main,47,,codync,Codync,25.364,787,21.216,1.303,0,0,1,,v1,false
+2026-W44,main,48,,browser,Lightpanda Browser,24.956,3717,19.197,2,0,0,1,,v1,false
+2026-W44,main,49,,baoyu-design,baoyu-design,24.681,1343,18.985,2,0,0,1,,v1,false
+2026-W44,main,50,36,switch,Switch,24.334,1069,23.174,0.334,0,0,1,,v1,false
+2026-W44,main,51,,taishang-laojun,taishang-laojun,24.302,418,18.694,2,0,0,1,,v1,false
+2026-W44,main,52,,skills-jakubkrehel,skills,23.563,1741,18.381,1.879,0,0,1,,v1,false
+2026-W44,main,53,,video-shotcraft,video-shotcraft,22.783,2374,19.967,0.941,0,0,1,,v1,false
+2026-W44,main,54,,capri-ai,Capri,22.383,385,17.218,2,0,0,1,,v1,false
+2026-W44,main,55,,skills-expo,Expo Skills,21.871,998,16.824,2,0,0,1,,v1,false
+2026-W44,main,56,,ste-zh,ste-zh,21.664,487,16.665,2,0,0,1,,v1,false
+2026-W44,main,57,9,xerj,XERJ,21.441,3195,25.225,-1,0,0,1,,v1,false
+2026-W44,main,58,38,anatomy,Anatomy,20.573,3221,22.104,-0.462,0,0,1,,v1,false
+2026-W44,main,59,,squadra,Squadra,20.435,601,18.279,0.786,0,0,1,,v1,false
+2026-W44,main,60,14,beautifulrust,BeautifulRust,20.422,781,20.978,-0.177,0,0,1,,v1,false
+2026-W44,main,61,,geo-sleuth,geo-sleuth,20.386,1276,18.614,0.635,0,0,1,,v1,false
+2026-W44,main,62,34,orca,Orca,19.922,6937,21.246,-0.415,0,0,1,,v1,false
+2026-W44,main,63,,appllama-skills,appllama-skills,19.695,901,15.15,2,0,0,1,,v1,false
+2026-W44,main,64,,anymove,anymove,19.331,475,21.243,2,0,0,0.7,new-owner-account,v1,false
+2026-W44,main,65,,mesh-avatar-studio,Mesh Avatar Studio,19.14,671,16.589,1.025,0,0,1,,v1,false
+2026-W44,main,66,,taste-skill,taste-skill,19.019,5626,17.523,0.569,0,0,1,,v1,false
+2026-W44,main,67,,hyperframes,HyperFrames,18.265,5031,18.641,-0.134,0,0,1,,v1,false
+2026-W44,main,68,26,replica-skill,Replica Skill,18.215,1519,19.574,-0.463,0,0,1,,v1,false
+2026-W44,main,69,,skillspector,SkillSpector,17.742,2299,15.455,0.986,0,0,1,,v1,false
+2026-W44,main,70,,agent-reach,Agent Reach,17.628,5233,16.299,0.544,0,0,1,,v1,false
+2026-W44,main,71,,doop,doop,17.358,516,13.381,1.981,0,0,1,,v1,false
+2026-W44,main,72,,logo-design-skill,logo-design-skill,17.242,1167,16.341,0.367,0,0,1,,v1,false
+2026-W44,main,73,28,noria,Noria,16.568,1483,24.758,-0.293,0,0,0.7,high-star-fork-ratio,v1,false
+2026-W44,main,74,22,qq-bridge,qq-bridge,16.104,942,17.178,-0.417,0,0,1,,v1,false
+2026-W44,main,75,89,open-seo-mcp-skills,open-seo-mcp-skills,15.823,1373,15.565,0.11,0,0,1,,v1,false
+2026-W44,main,76,,devbox,devbox,15.697,270,12.075,2,0,0,1,,v1,false
+2026-W44,main,77,48,ponytail,Ponytail,15.166,6159,14.648,-0.604,0,2.028,1,,v1,false
+2026-W44,main,78,,huashu-design,Huashu Design,14.976,2124,12.967,1.033,0,0,1,,v1,false
+2026-W44,main,79,67,ppt-master,PPT Master,14.839,4047,15.424,-0.253,0,0,1,,v1,false
+2026-W44,main,80,16,b,B,14.694,1495,23.224,-0.641,0,0,0.7,high-star-fork-ratio,v1,false
+2026-W44,main,81,,unigit-ecosystem,UNIGIT,14.655,478,11.273,2,0,0,1,,v1,false
+2026-W44,main,82,23,openfilm,OpenFilm,14.412,1294,22.238,-0.494,0,0,0.7,new-owner-account,v1,false
+2026-W44,main,83,,roast-room,roast-room,14.284,549,13.366,0.458,0,0,1,,v1,false
+2026-W44,main,84,43,ds-bot,DS Bot,14.069,1024,15.285,-0.53,0,0,1,,v1,false
+2026-W44,main,85,,treg,treg,13.941,920,11.361,1.513,0,0,1,,v1,false
+2026-W44,main,86,,agenvoy,Agenvoy,13.909,358,11.133,1.662,0,0,1,,v1,false
+2026-W44,main,87,,ecc,ECC,13.808,6174,11.477,0.05,0,2.228,1,,v1,false
+2026-W44,main,88,53,graphify,graphify,13.696,5359,14.536,-0.402,0,0.039,1,,v1,false
+2026-W44,main,89,,locally-uncensored,Locally Uncensored,13.509,609,10.991,1.527,0,0,1,,v1,false
+2026-W44,main,90,,cvengine,CVEngine,13.411,336,12.453,0.513,0,0,1,,v1,false
+2026-W44,main,91,,endoplexity,Endoplexity,13.309,265,10.238,2,0,0,1,,v1,false
+2026-W44,main,92,41,trader-skill,trader-skill,13.179,466,13.838,-0.318,0,0,1,,v1,false
+2026-W44,main,93,,dsh-image-gen,dsh-image-gen,13.162,363,10.466,1.717,0,0,1,,v1,false
+2026-W44,main,94,,humanizer,humanizer,12.756,3043,12.303,0.245,0,0,1,,v1,false
+2026-W44,main,95,,apify-mcp-server,Apify MCP server,12.65,1138,9.733,-0.164,0,3.236,1,,v1,false
+2026-W44,main,96,,deva,Deva,12.246,319,11.215,0.612,0,0,1,,v1,false
+2026-W44,main,97,,mavericks-os,Mavericks OS,12.237,213,9.413,2,0,0,1,,v1,false
+2026-W44,main,98,,diagram-design,diagram-design,12.227,3080,12.408,-0.097,0,0,1,,v1,false
+2026-W44,main,99,,hypit,Hypit,12.089,1839,11.38,-0.28,0,1.24,1,,v1,false
+2026-W44,main,100,,headcount,headcount,12.069,472,9.283,2,0,0,1,,v1,false
+2026-W44,builder,1,,open-ontologies,Open Ontologies,40.773,1361,31.364,2,0,0,1,,v1,false
+2026-W44,builder,2,11,hindsight,Hindsight,19.064,4065,17.441,0.621,0,0,1,,v1,false
+2026-W44,builder,3,,rocketride-server,RocketRide,18.501,1920,14.231,2,0,0,1,,v1,false
+2026-W44,builder,4,,mcp-server-gateway,mcp-server-gateway,17.278,368,13.959,1.585,0,0,1,,v1,false
+2026-W44,builder,5,,masteragent,MasterAgent,16.921,455,14.303,1.22,0,0,1,,v1,false
+2026-W44,builder,6,3,autoswarm-shadow-adapter,AutoSwarm-Shadow-Adapter,16.652,1622,25.62,-0.477,0,0,0.7,high-star-fork-ratio,v1,false
+2026-W44,builder,7,12,tradingagents,TradingAgents,15.688,4861,14.31,0.642,0,0,1,,v1,false
+2026-W44,builder,8,7,deepseek-harness,dsh,13.867,7342,14.34,-0.22,0,0,1,,v1,false
+2026-W44,builder,9,1,harness2,harness2,13.096,2195,15.407,-1,0,0,1,,v1,false
+2026-W44,builder,10,,rsi-anything,RSI-Anything,9.66,271,7.431,2,0,0,1,,v1,false
+2026-W44,builder,11,16,moli,Moli,9.606,1398,9.594,0.008,0,0,1,,v1,false
+2026-W44,builder,12,24,scrapling,Scrapling,9.02,2309,7.687,0.835,0,0.328,1,,v1,false
+2026-W44,builder,13,,chaosintelligence,Chaos Intelligence,7.989,162,6.84,1.121,0,0,1,,v1,false
+2026-W44,builder,14,,traceroot,TraceRoot,7.872,284,7.333,0.49,0,0,1,,v1,false
+2026-W44,builder,15,,memvid,memvid,7.436,748,5.72,2,0,0,1,,v1,false
+2026-W44,builder,16,20,agentscope,AgentScope,6.783,1121,6.029,0.834,0,0,1,,v1,false
+2026-W44,builder,17,,manimgx,ManimGX,6.235,317,6.179,0.06,0,0,1,,v1,false
+2026-W44,builder,18,,rl-pricing,RL-pricing,6.187,160,6.113,0.08,0,0,1,,v1,false
+2026-W44,builder,19,,rsihub,RSIHub,6.186,125,4.759,2,0,0,1,,v1,false
+2026-W44,builder,20,,precondition-library,precondition-library,6.084,132,5.066,1.34,0,0,1,,v1,false
+2026-W44,builder,21,,openmaic,OpenMAIC,5.662,1005,4.907,1.025,0,0,1,,v1,false
+2026-W44,builder,22,,agenticx,AgenticX,5.507,191,5.534,-0.033,0,0,1,,v1,false
+2026-W44,builder,23,18,firecrawl,Firecrawl,5.445,2468,5.577,-0.158,0,0,1,,v1,false
+2026-W44,builder,24,,remory,Remory,4.295,147,4.656,-0.516,0,0,1,,v1,false
+2026-W44,builder,25,,ai-native-callcenter,AI Native Call Center,4.144,121,4.042,0.167,0,0,1,,v1,false
+2026-W44,builder,26,25,weknora,WeKnora,4.086,787,4.151,-0.105,0,0,1,,v1,false
+2026-W44,builder,27,,droidline,Droidline,4.028,107,3.703,0.585,0,0,1,,v1,false
+2026-W44,builder,28,,xiaoai-patch,xiaoai-patch,4.025,146,4.394,-0.559,0,0,1,,v1,false
+2026-W44,builder,29,13,esp32-iphone-agent,esp32-iphone-agent,3.955,309,4.653,-1,0,0,1,,v1,false
+2026-W44,builder,30,22,shaders,Shaders,3.639,299,3.867,-0.391,0,0,1,,v1,false
+2026-W44,builder,31,37,reagent,ReAgent,3.582,174,3.328,0.507,0,0,1,,v1,false
+2026-W44,builder,32,,whatsapp-ai-agent-sdk,whatsapp-ai-agent-sdk,3.399,75,2.955,1,0,0,1,,v1,false
+2026-W44,builder,33,19,tiny-engineer,Tiny Engineer,3.304,131,3.507,-0.387,0,0,1,,v1,false
+2026-W44,builder,34,26,agentgateway,agentgateway,3.091,241,3.078,0.027,0,0,1,,v1,false
+2026-W44,builder,35,,cairn,Cairn,3.018,251,3.55,-1,0,0,1,,v1,false
+2026-W44,builder,36,36,xiaozhi-esp32,xiaozhi-esp32,2.874,514,2.853,0.049,0,0,1,,v1,false
+2026-W44,builder,37,,harnessrouter,HarnessRouter,2.851,216,3.354,-1,0,0,1,,v1,false
+2026-W44,builder,38,,mathema,mathema,2.78,73,2.761,0.045,0,0,1,,v1,false
+2026-W44,builder,39,,headroom,Headroom,2.684,791,2.826,-1,0,0.331,1,,v1,false
+2026-W44,builder,40,29,openviking,OpenViking,2.589,536,2.637,-0.121,0,0,1,,v1,false
+2026-W44,builder,41,38,browser-use,browser-use,2.337,688,1.989,-0.17,0,0.409,1,,v1,false
+2026-W44,builder,42,41,voicemem,VoiceMem,2.246,125,2.21,0.11,0,0,1,,v1,false
+2026-W44,builder,43,39,langgraph,LangGraph,2.056,435,2.065,-0.028,0,0,1,,v1,false
+2026-W44,builder,44,,enterpriseagentframework,EnterpriseAgentFramework,1.915,65,1.705,0.819,0,0,1,,v1,false
+2026-W44,builder,45,48,mem0,Mem0,1.819,468,1.791,0.106,0,0,1,,v1,false
+2026-W44,builder,46,,memory-bridge,memory-bridge,1.766,51,1.709,0.226,0,0,1,,v1,false
+2026-W44,builder,47,45,opensandbox,OpenSandbox,1.695,218,1.689,0.024,0,0,1,,v1,false
+2026-W44,builder,48,,dify,Dify,1.693,699,1.747,-0.206,0,0,1,,v1,false
+2026-W44,builder,49,40,crawl4ai,crawl4ai,1.681,489,1.66,-0.069,0,0.039,1,,v1,false
+2026-W44,builder,50,15,open-intelligent-ui,Open Intelligent UI,1.675,72,1.971,-1,0,0,1,,v1,false
