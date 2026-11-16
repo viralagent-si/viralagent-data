@@ -23,11 +23,11 @@ configs:
 # Viral Agent: AI agent momentum
 
 Weekly leaderboards of AI agents and agent tools ranked by momentum, from [Viral Agent](https://viralagent.si). Updated every Monday.
-Last updated 2026-11-09. 1700 agents, 6 frozen weeks.
+Last updated 2026-11-16. 1991 agents, 7 frozen weeks.
 
 ## Files
 
-* `agents.csv`: one row per listed agent. Plain-English summary (written by an AI model from the project's own text), type, setup difficulty from 1 (works in a browser) to 5 (requires programming), cost model, audiences, tasks, and links.
+* `agents.csv`: one row per listed agent. Plain-English summary (written by an AI model from the project's own text), type, setup difficulty from 1 (works in a browser) to 5 (requires programming), cost model, audiences, tasks, and links. `url` is empty for guides and lists, which have no page on the site.
 * `leaderboards.csv`: every frozen weekly leaderboard, with score components. Also split by week in `leaderboards/`.
 * `signals_weekly.csv`: public signals each Monday: GitHub stars and forks, Hugging Face likes, npm and PyPI downloads over the previous 7 days.
 

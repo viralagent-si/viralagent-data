@@ -28,7 +28,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,27,,dbx,dbx,22.65,3333,22.65,0,0,0,1,,v1,true
 2026-W40,main,28,,openmuse,OpenMuse,22.414,1258,22.414,0,0,0,1,,v1,true
 2026-W40,main,29,,live-panel-skill,live-panel-skill,22.316,499,22.316,0,0,0,1,,v1,true
-2026-W40,main,30,,paperclip,Paperclip,21.836,6582,21.836,0,0,0,1,,v1,true
+2026-W40,main,30,,paperclip,paperclip,21.836,6582,21.836,0,0,0,1,,v1,true
 2026-W40,main,31,,ponytail,ponytail,21.813,8327,21.762,0,0,0.051,1,,v1,true
 2026-W40,main,32,,open-seo-mcp-skills,open-seo-mcp-skills,20.973,1326,24.674,0,0,0,0.85,solo-contributor-spike,v1,true
 2026-W40,main,33,,agent-memory,agent-memory,20.673,893,20.673,0,0,0,1,,v1,true
@@ -74,8 +74,8 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,main,73,,ecc,ECC,10.236,4883,9.444,0,0,0.792,1,,v1,true
 2026-W40,main,74,,operator-memory,operator-memory,10.02,235,10.02,0,0,0,1,,v1,true
 2026-W40,main,75,,apify-mcp-server,Apify MCP server,9.968,875,9.123,0,0,0.845,1,,v1,true
-2026-W40,main,76,,atlas,atlas,9.927,912,9.927,0,0,0,1,,v1,true
-2026-W40,main,77,,open-code-review,Open Code Review,9.552,1800,8.757,0,0,0.794,1,,v1,true
+2026-W40,main,76,,atlas,Atlas,9.927,912,9.927,0,0,0,1,,v1,true
+2026-W40,main,77,,open-code-review,open-code-review,9.552,1800,8.757,0,0,0.794,1,,v1,true
 2026-W40,main,78,,i-have-adhd,i-have-adhd,9.221,2099,9.221,0,0,0,1,,v1,true
 2026-W40,main,79,,ollaya,ollaya,9.14,457,13.057,0,0,0,0.7,new-owner-account,v1,true
 2026-W40,main,80,,anti-slop,anti-slop,9.07,598,9.07,0,0,0,1,,v1,true
@@ -109,7 +109,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,builder,8,,pageindex,PageIndex,14.727,2804,14.727,0,0,0,1,,v1,true
 2026-W40,builder,9,,hyperframes,hyperframes,13.958,3239,13.958,0,0,0,1,,v1,true
 2026-W40,builder,10,,deepseek-harness,DeepSeek dsh,11.758,5725,11.758,0,0,0,1,,v1,true
-2026-W40,builder,11,,univer,univer,11.08,1610,11.08,0,0,0,1,,v1,true
+2026-W40,builder,11,,univer,Univer,11.08,1610,11.08,0,0,0,1,,v1,true
 2026-W40,builder,12,,reef,reef,10.085,844,10.085,0,0,0,1,,v1,true
 2026-W40,builder,13,,pi,Pi,8.169,2708,8.169,0,0,0,1,,v1,true
 2026-W40,builder,14,,jev-ultrafast,Jev Ultrafast,7.947,1157,7.947,0,0,0,1,,v1,true
@@ -136,13 +136,13 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W40,builder,35,,crawl4ai,crawl4ai,2.151,434,1.492,0,0,0.659,1,,v1,true
 2026-W40,builder,36,,agentscope,AgentScope,2.08,302,1.665,0,0,0.415,1,,v1,true
 2026-W40,builder,37,,gh-aw,gh-aw,2.018,152,2.018,0,0,0,1,,v1,true
-2026-W40,builder,38,,ag-ui,ag-ui,1.913,246,1.913,0,0,0,1,,v1,true
+2026-W40,builder,38,,ag-ui,AG-UI,1.913,246,1.913,0,0,0,1,,v1,true
 2026-W40,builder,39,,harness-sdk,Strands Agents,1.837,174,1.837,0,0,0,1,,v1,true
 2026-W40,builder,40,,mem0,mem0,1.784,460,1.784,0,0,0,1,,v1,true
 2026-W40,builder,41,,camofox-browser,camofox-browser,1.776,192,1.776,0,0,0,1,,v1,true
 2026-W40,builder,42,,langgraph,LangGraph,1.736,359,1.736,0,0,0,1,,v1,true
 2026-W40,builder,43,,agents-livekit,agents,1.682,205,1.682,0,0,0,1,,v1,true
-2026-W40,builder,44,,antigravity-sdk-python,Google Antigravity SDK,1.546,83,1.308,0,0,0.237,1,,v1,true
+2026-W40,builder,44,,antigravity-sdk-python,antigravity-sdk-python,1.546,83,1.308,0,0,0.237,1,,v1,true
 2026-W40,builder,45,,e2b,E2B,1.488,179,1.488,0,0,0,1,,v1,true
 2026-W40,builder,46,,commerce-agents,Claude Commerce Agents,1.425,85,1.425,0,0,0,1,,v1,true
 2026-W40,builder,47,,pydantic-ai,Pydantic AI,1.391,200,1.391,0,0,0,1,,v1,true

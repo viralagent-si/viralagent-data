@@ -21,22 +21,22 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W42,main,20,,motionmaxxing,motionmaxxing,38.4,742,29.539,2,0,0,1,,v1,true
 2026-W42,main,21,,andee,andee,35.975,628,27.673,2,0,0,1,,v1,true
 2026-W42,main,22,87,codeagent,codeAgent,34.968,759,28.111,1.626,0,0,1,,v1,true
-2026-W42,main,23,,ling-stack,Ling Stack,32.289,795,35.483,2,0,0,0.7,new-owner-account,v1,true
+2026-W42,main,23,,ling-stack,ling-stack,32.289,795,35.483,2,0,0,0.7,new-owner-account,v1,true
 2026-W42,main,24,88,folkbench,Folkbench,32.18,1451,50.517,2,0,0,0.49,high-star-fork-ratio|new-owner-account,v1,true
 2026-W42,main,25,,context-mode,context-mode,31.449,4161,25.269,1.63,0,0,1,,v1,true
 2026-W42,main,26,,openfilm,openfilm,31.101,884,34.177,2,0,0,0.7,new-owner-account,v1,true
 2026-W42,main,27,14,diagram-design,diagram-design,30.395,7024,31.014,-0.133,0,0,1,,v1,true
 2026-W42,main,28,7,replica-skill,replica-skill,29.507,1474,29.81,-0.068,0,0,1,,v1,true
 2026-W42,main,29,29,lemo-opuscar,lemo-opuscar,29.445,1345,27.358,0.509,0,0,1,,v1,true
-2026-W42,main,30,,blender-plugin,Scenario for Blender,28.729,502,22.099,2,0,0,1,,v1,true
+2026-W42,main,30,,blender-plugin,blender-plugin,28.729,502,22.099,2,0,0,1,,v1,true
 2026-W42,main,31,,imozuru,imozuru,28.371,488,21.824,2,0,0,1,,v1,true
 2026-W42,main,32,,orbital,Orbital,28.068,616,21.591,2,0,0,1,,v1,true
 2026-W42,main,33,11,geo-sleuth,geo-sleuth,27.893,1385,27.694,0.048,0,0,1,,v1,true
 2026-W42,main,34,48,founder-skill,founder-skill,27.8,688,24.026,1.047,0,0,1,,v1,true
 2026-W42,main,35,,mcd-saver-strategist,mcd-saver-strategist,27.709,580,25.076,2,0,0,0.85,solo-contributor-spike,v1,true
 2026-W42,main,36,72,pstack-claude,pstack-claude,27.539,1166,24.218,0.914,0,0,1,,v1,true
-2026-W42,main,37,,cloudroom,Cloudroom,27.474,594,21.134,2,0,0,1,,v1,true
-2026-W42,main,38,,cloudroom-core,Cloudroom,27.474,594,21.134,2,0,0,1,,v1,true
+2026-W42,main,37,,cloudroom,cloudroom,27.474,594,21.134,2,0,0,1,,v1,true
+2026-W42,main,38,,cloudroom-core,cloudroom,27.474,594,21.134,2,0,0,1,,v1,true
 2026-W42,main,39,,seo-skills,seo-skills,26.282,478,20.217,2,0,0,1,,v1,true
 2026-W42,main,40,55,orca,Orca,25.942,7215,24.032,0.53,0,0,1,,v1,true
 2026-W42,main,41,,reason-network,Reason Network,25.613,441,19.702,2,0,0,1,,v1,true
@@ -44,24 +44,24 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W42,main,43,,ai-data-extractor,ai-data-extractor,24.243,417,18.649,2,0,0,1,,v1,true
 2026-W42,main,44,,mcd-budget-meal,mcd-budget-meal,23.9,442,18.385,2,0,0,1,,v1,true
 2026-W42,main,45,90,workbuddy2api-hub,workbuddy2api-hub,23.481,788,20.442,0.991,0,0,1,,v1,true
-2026-W42,main,46,,skills-juliobsz,awwwards,23.371,402,17.978,2,0,0,1,,v1,true
-2026-W42,main,47,,ai-cross-border-ecommerce-agent-toolkit,AI Cross Border Ecommerce Agent Toolkit,23.023,396,17.71,2,0,0,1,,v1,true
+2026-W42,main,46,,skills-juliobsz,skills,23.371,402,17.978,2,0,0,1,,v1,true
+2026-W42,main,47,,ai-cross-border-ecommerce-agent-toolkit,AI-Cross-Border-Ecommerce-Agent-Toolkit,23.023,396,17.71,2,0,0,1,,v1,true
 2026-W42,main,48,,grandet,Grandet,22.908,396,17.622,2,0,0,1,,v1,true
-2026-W42,main,49,,scout,scout,22.196,909,40.652,2,0,0,0.42,new-owner-account|one-day-spike,v1,true
-2026-W42,main,50,,ai-security-tool,AI Security Tool,21.857,503,16.813,2,0,0,1,,v1,true
-2026-W42,main,51,,ux-ui-agent-skills,UX/UI Agent Skills,21.656,757,16.658,2,0,0,1,,v1,true
+2026-W42,main,49,,scout,Scout,22.196,909,40.652,2,0,0,0.42,new-owner-account|one-day-spike,v1,true
+2026-W42,main,50,,ai-security-tool,ai-security-tool,21.857,503,16.813,2,0,0,1,,v1,true
+2026-W42,main,51,,ux-ui-agent-skills,ux-ui-agent-skills,21.656,757,16.658,2,0,0,1,,v1,true
 2026-W42,main,52,,cinetic,cinetic,21.493,411,16.533,2,0,0,1,,v1,true
 2026-W42,main,53,,huashu-motion,huashu-motion,20.232,580,25.938,2,0,0,0.6,one-day-spike,v1,true
 2026-W42,main,54,,dsh-blender-plugin,Dsh-blender-plugin,20.184,414,15.526,2,0,0,1,,v1,true
-2026-W42,main,55,,stealth-browser-mcp,Stealth Browser MCP,19.443,779,14.956,2,0,0,1,,v1,true
+2026-W42,main,55,,stealth-browser-mcp,stealth-browser-mcp,19.443,779,14.956,2,0,0,1,,v1,true
 2026-W42,main,56,,b,B,19.379,1002,35.493,2,0,0,0.42,high-star-fork-ratio|one-day-spike,v1,true
 2026-W42,main,57,28,yovoice,yovoice,19.163,710,18.575,0.211,0,0,1,,v1,true
 2026-W42,main,58,39,skills,skills,18.524,10080,18.829,-0.108,0,0,1,,v1,true
-2026-W42,main,59,,muxin,Muxin,18.197,313,13.998,2,0,0,1,,v1,true
+2026-W42,main,59,,muxin,muxin,18.197,313,13.998,2,0,0,1,,v1,true
 2026-W42,main,60,,coop-anything,coop-anything,18.151,446,19.946,2,0,0,0.7,new-owner-account,v1,true
 2026-W42,main,61,,baize,Baize,18.048,366,13.883,2,0,0,1,,v1,true
 2026-W42,main,62,,mcd-wrapped,mcd-wrapped,17.765,308,13.665,2,0,0,1,,v1,true
-2026-W42,main,63,,free-claude-code,Free Claude Code,17.712,3638,15.064,1.172,0,0,1,,v1,true
+2026-W42,main,63,,free-claude-code,free-claude-code,17.712,3638,15.064,1.172,0,0,1,,v1,true
 2026-W42,main,64,62,open-seo-mcp-skills,open-seo-mcp-skills,17.215,1220,16.772,0.176,0,0,1,,v1,true
 2026-W42,main,65,,youtube-skills,youtube-skills,16.861,300,12.97,2,0,0,1,,v1,true
 2026-W42,main,66,,carrel,Carrel,16.858,294,12.968,2,0,0,1,,v1,true
@@ -73,12 +73,12 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W42,main,72,,taste-skill,taste-skill,15.742,4281,13.889,0.89,0,0,1,,v1,true
 2026-W42,main,73,26,security-audit-skill,security-audit-skill,15.723,2872,16.935,-0.477,0,0,1,,v1,true
 2026-W42,main,74,,rakazo,Rakazo,15.685,886,13.631,1.005,0,0,1,,v1,true
-2026-W42,main,75,,harness-mix,harness-mix,15.611,333,12.008,2,0,0,1,,v1,true
+2026-W42,main,75,,harness-mix,Mix,15.611,333,12.008,2,0,0,1,,v1,true
 2026-W42,main,76,,claude-share,claude-share,15.523,267,11.941,2,0,0,1,,v1,true
-2026-W42,main,77,,itsaplan,It's a Plan,15.374,448,11.826,2,0,0,1,,v1,true
+2026-W42,main,77,,itsaplan,itsaplan,15.374,448,11.826,2,0,0,1,,v1,true
 2026-W42,main,78,59,ponytail,ponytail,15.302,6201,15.444,-0.061,0,0,1,,v1,true
 2026-W42,main,79,36,text-to-cad,text-to-cad,14.88,2151,15.272,-0.171,0,0,1,,v1,true
-2026-W42,main,80,23,winutil-cn,winutil-cn,14.676,491,15.046,-0.164,0,0,1,,v1,true
+2026-W42,main,80,23,winutil-cn,WinUtil CN,14.676,491,15.046,-0.164,0,0,1,,v1,true
 2026-W42,main,81,,horizon,Horizon,14.644,1132,11.264,2,0,0,1,,v1,true
 2026-W42,main,82,,neckbeard,neckbeard,14.621,253,11.247,2,0,0,1,,v1,true
 2026-W42,main,83,,droidline,Droidline,14.579,255,11.215,2,0,0,1,,v1,true
@@ -86,17 +86,17 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W42,main,85,,artemis,ARTEMIS,14.392,1271,11.683,1.545,0,0,1,,v1,true
 2026-W42,main,86,,gravitas,Gravitas,14.29,248,10.992,2,0,0,1,,v1,true
 2026-W42,main,87,50,pstack,pstack,14.245,648,14.12,0.059,0,0,1,,v1,true
-2026-W42,main,88,10,talorys,Talorys,14.2,548,15.323,-0.489,0,0,1,,v1,true
+2026-W42,main,88,10,talorys,talorys,14.2,548,15.323,-0.489,0,0,1,,v1,true
 2026-W42,main,89,,squadra,Squadra,14.127,243,10.867,2,0,0,1,,v1,true
 2026-W42,main,90,,codex,Codex,14.015,1197,3.333,0.041,10.597,0,1,,v1,true
 2026-W42,main,91,,thinkrail,ThinkRail,13.731,335,10.562,2,0,0,1,,v1,true
-2026-W42,main,92,,blender-skills-el4cteo,Blender Agent Skills,13.43,231,10.331,2,0,0,1,,v1,true
+2026-W42,main,92,,blender-skills-el4cteo,blender-skills,13.43,231,10.331,2,0,0,1,,v1,true
 2026-W42,main,93,,tencentdb-agent-memory,TencentDB-Agent-Memory,13.089,1695,10.069,2,0,0,1,,v1,true
 2026-W42,main,94,,esp32-thinks,esp32-thinks,12.965,223,9.973,2,0,0,1,,v1,true
 2026-W42,main,95,,ecc,ECC,12.959,6416,12.19,0.421,0,0,1,,v1,true
 2026-W42,main,96,18,api-anything,api-anything,12.942,478,13.939,-0.477,0,0,1,,v1,true
 2026-W42,main,97,,hycli,Hycli,12.694,219,9.765,2,0,0,1,,v1,true
-2026-W42,main,98,,paperclip,Paperclip,12.571,3864,12.173,0.218,0,0,1,,v1,true
+2026-W42,main,98,,paperclip,paperclip,12.571,3864,12.173,0.218,0,0,1,,v1,true
 2026-W42,main,99,,remory,Remory,12.567,230,9.843,1.845,0,0,1,,v1,true
 2026-W42,main,100,,apify-mcp-server,Apify MCP server,12.556,1272,12.061,0.274,0,0,1,,v1,true
 2026-W42,builder,1,,harness2,harness2,281.638,8090,361.074,2,0,0,0.6,one-day-spike,v1,true
@@ -142,10 +142,10 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W42,builder,41,36,langgraph,LangGraph,1.976,412,1.975,0.003,0,0,1,,v1,true
 2026-W42,builder,42,46,trueforge,TrueForge,1.886,146,1.794,0.341,0,0,1,,v1,true
 2026-W42,builder,43,40,enterpriseagentframework,EnterpriseAgentFramework,1.821,65,1.761,0.225,0,0,1,,v1,true
-2026-W42,builder,44,,ag-ui,ag-ui,1.768,217,1.667,0.403,0,0,1,,v1,true
+2026-W42,builder,44,,ag-ui,AG-UI,1.768,217,1.667,0.403,0,0,1,,v1,true
 2026-W42,builder,45,32,rpent,RPent,1.733,80,1.807,-0.274,0,0,1,,v1,true
 2026-W42,builder,46,45,frontieragent,FrontierAgent,1.717,128,1.712,0.019,0,0,1,,v1,true
 2026-W42,builder,47,,camofox-browser,camofox-browser,1.649,172,1.57,0.337,0,0,1,,v1,true
 2026-W42,builder,48,37,mem0,mem0,1.63,434,1.671,-0.163,0,0,1,,v1,true
 2026-W42,builder,49,,reef,reef,1.604,131,1.471,0.599,0,0,1,,v1,true
-2026-W42,builder,50,,midscene,Midscene,1.578,176,1.408,0.806,0,0,1,,v1,true
+2026-W42,builder,50,,midscene,midscene,1.578,176,1.408,0.806,0,0,1,,v1,true

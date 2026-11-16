@@ -2,13 +2,13 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W41,main,1,9,rea,rea,2562.061,115457,1964.816,2,0,6,1,,v1,true
 2026-W41,main,2,22,dsh-our-free-model,dsh-our-free-model,265.752,8056,204.425,2,0,0,1,,v1,true
 2026-W41,main,3,,anatomy,anatomy,141.868,4067,181.882,2,0,0,0.6,one-day-spike,v1,true
-2026-W41,main,4,,artex-global,artex-global,75.387,1298,57.99,2,0,0,1,,v1,true
-2026-W41,main,5,,helix-foundry,Helix Foundry,72.382,1245,55.678,2,0,0,1,,v1,true
+2026-W41,main,4,,artex-global,ARTEX Global Edition,75.387,1298,57.99,2,0,0,1,,v1,true
+2026-W41,main,5,,helix-foundry,helix-foundry,72.382,1245,55.678,2,0,0,1,,v1,true
 2026-W41,main,6,4,magpie,magpie,69.846,4796,65.527,0.439,0,0,1,,v1,true
 2026-W41,main,7,43,replica-skill,replica-skill,66.176,1546,51.562,1.89,0,0,1,,v1,true
 2026-W41,main,8,11,vibe-wise,VibeWise,65.269,2288,56.723,1.004,0,0,1,,v1,true
 2026-W41,main,9,,ds-bot,DS-Bot,61.103,1051,47.002,2,0,0,1,,v1,true
-2026-W41,main,10,,talorys,Talorys,57.356,779,34.838,2,9.282,0,1,,v1,true
+2026-W41,main,10,,talorys,talorys,57.356,779,34.838,2,9.282,0,1,,v1,true
 2026-W41,main,11,,geo-sleuth,geo-sleuth,51.065,1339,39.281,2,0,0,1,,v1,true
 2026-W41,main,12,84,native-subtitle-quote-image,native-subtitle-quote-image,49.664,1531,38.203,2,0,0,1,,v1,true
 2026-W41,main,13,,big-arrow-on-the-screen,big-arrow-on-the-screen,49.21,631,28.219,2,9.635,0,1,,v1,true
@@ -21,7 +21,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W41,main,20,,docker-agent,docker-agent,34.143,1063,17.096,2,9.167,0,1,,v1,true
 2026-W41,main,21,,mortiflix-oss,mortiflix-oss,33.313,573,25.625,2,0,0,1,,v1,true
 2026-W41,main,22,,openintelligentui,Open Intelligent UI,33.308,1166,25.622,2,0,0,1,,v1,true
-2026-W41,main,23,,winutil-cn,winutil-cn,31.771,553,24.439,2,0,0,1,,v1,true
+2026-W41,main,23,,winutil-cn,WinUtil CN,31.771,553,24.439,2,0,0,1,,v1,true
 2026-W41,main,24,,animate,animate,30.232,520,23.255,2,0,0,1,,v1,true
 2026-W41,main,25,,papermorph,Papermorph,29.238,564,22.56,1.973,0,0,1,,v1,true
 2026-W41,main,26,59,security-audit-skill,security-audit-skill,29.217,4008,25.475,0.979,0,0,1,,v1,true
@@ -72,7 +72,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W41,main,71,,claude-mem,claude-mem,14.882,3707,11.943,1.256,0,0.58,1,,v1,true
 2026-W41,main,72,47,pstack-claude,pstack-claude,14.877,607,14.675,0.092,0,0,1,,v1,true
 2026-W41,main,73,,sno-station-skills,sno-station-skills,14.868,256,11.437,2,0,0,1,,v1,true
-2026-W41,main,74,,agent-skills,Agent Skills,14.636,3994,12.542,1.113,0,0,1,,v1,true
+2026-W41,main,74,,agent-skills,agent-skills,14.636,3994,12.542,1.113,0,0,1,,v1,true
 2026-W41,main,75,,concat,Concat,14.587,805,11.947,1.473,0,0,1,,v1,true
 2026-W41,main,76,,swiftui-agent-skill,SwiftUI-Agent-Skill,14.46,821,11.123,2,0,0,1,,v1,true
 2026-W41,main,77,,dontbemichael,dontbemichael,14.423,253,11.095,2,0,0,1,,v1,true
@@ -83,7 +83,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W41,main,82,,12306-mcp,12306-mcp,13.832,543,11.342,1.463,0,0,1,,v1,true
 2026-W41,main,83,24,brag,brag,13.779,1774,15.02,-0.551,0,0,1,,v1,true
 2026-W41,main,84,85,treg,treg,13.575,845,12.428,0.615,0,0,1,,v1,true
-2026-W41,main,85,77,open-code-review,Open Code Review,13.505,2623,12.498,0.537,0,0,1,,v1,true
+2026-W41,main,85,77,open-code-review,open-code-review,13.505,2623,12.498,0.537,0,0,1,,v1,true
 2026-W41,main,86,78,i-have-adhd,i-have-adhd,13.498,2926,12.601,0.474,0,0,1,,v1,true
 2026-W41,main,87,,codeagent,codeAgent,13.314,229,10.241,2,0,0,1,,v1,true
 2026-W41,main,88,,folkbench,Folkbench,13.226,325,14.534,2,0,0,0.7,new-owner-account,v1,true
@@ -147,5 +147,5 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W41,builder,46,,trueforge,TrueForge,1.416,110,1.363,0.257,0,0,1,,v1,true
 2026-W41,builder,47,,honcho,honcho,1.351,118,1.324,0.138,0,0,1,,v1,true
 2026-W41,builder,48,,deer-flow,DeerFlow,1.35,383,1.324,0.129,0,0,1,,v1,true
-2026-W41,builder,49,11,univer,univer,1.325,235,1.559,-1,0,0,1,,v1,true
-2026-W41,builder,50,44,antigravity-sdk-python,Google Antigravity SDK,1.271,72,1.123,-0.155,0,0.178,1,,v1,true
+2026-W41,builder,49,11,univer,Univer,1.325,235,1.559,-1,0,0,1,,v1,true
+2026-W41,builder,50,44,antigravity-sdk-python,antigravity-sdk-python,1.271,72,1.123,-0.155,0,0.178,1,,v1,true

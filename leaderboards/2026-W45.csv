@@ -98,7 +98,7 @@ week,board,rank,previous_rank,slug,name,score,star_gain,size_scaled_gain,acceler
 2026-W45,main,97,,superplane,SuperPlane,9.864,777,8.181,1.371,0,0,1,,v1,false
 2026-W45,main,98,,pullboard,pullboard,9.861,291,9.267,0.427,0,0,1,,v1,false
 2026-W45,main,99,88,graphify,graphify,9.718,3917,10.421,-0.45,0,0,1,,v1,false
-2026-W45,main,100,,motty,Motty,9.509,292,9.509,0,0,0,1,,v1,false
+2026-W45,main,100,,motty,motty,9.509,292,9.509,0,0,0,1,,v1,false
 2026-W45,builder,1,,agent-desktop-vercel-labs,agent-desktop,136.748,12324,136.748,0,0,0,1,,v1,false
 2026-W45,builder,2,,sapper-v2,sapper-v2,35.818,1170,35.818,0,0,0,1,,v1,false
 2026-W45,builder,3,12,scrapling,Scrapling,35.077,8151,26.796,1.809,0,0.796,1,,v1,false
